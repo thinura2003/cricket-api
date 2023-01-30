@@ -1,41 +1,33 @@
 {
+"name": "cricket-api",
+"version": "1.0.0",
+"description": "hee",
+"scripts": {
 
-3    "name": "cricket-api",
+"build": "echo \"No build specified\" && exit 1",
+"test": "echo \"No test specified\" && exit 1",
+ "start": "node index.js"
 
-4    "version": "1.0.0",
+},
 
-5    "description": "hee",
+"repository": {
 
-6    "scripts": {
+ "type": "git",
 
-7        "build": "echo \"No build specified\" && exit 1",
+ "url": "git+https://github.com/thinura2003/cricket-api.git"
 
-8        "test": "echo \"No test specified\" && exit 1",
+  },
 
-9        "start": "node index.js"
+  "author": "",
+ "license": "ISC",
+  "bugs": {
 
-10    },
+      "url": "https://github.com/thinura2003/cricket-api/issues"
 
-11    "repository": {
+   },
 
-12        "type": "git",
+  "homepage": "https://github.com/thinura2003/cricket-api#readme"
 
-13        "url": "git+https://github.com/thinura2003/cricket-api.git"
-
-14    },
-
-15    "author": "",
-
-16    "license": "ISC",
-
-17    "bugs": {
-
-18        "url": "https://github.com/thinura2003/cricket-api/issues"
-
-19    },
-
-20    "homepage": "https://github.com/thinura2003/cricket-api#readme"
-
-21}
+}
 
 22 
